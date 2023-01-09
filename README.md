@@ -13,3 +13,26 @@ The third project shows the faces in the image displayed on the Webcam by detect
 ![image](https://user-images.githubusercontent.com/92020160/190085163-9b0f2328-3639-4fe6-8b7b-a0ff23679909.png)
 
 The fourth project was to do the same job as face and eyes.
+
+# Requirements
+To run this project, you will need to have the following software requirements:
+
+• cv2
+• NumPy
+• matplotlib.pyplot
+• time
+
+# Setup
+To run this project on your own computer, follow these steps:
+
+1. Clone or download this repository.
+2. Install the requirements. For example: pip install -r requirements.txt
+3. Run main.py to run the project.
+
+# Contributing
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork this repository.
+2. Make the desired changes.
+3. Commit and push your changes.
+4. Create a pull request.
